@@ -1,5 +1,5 @@
-# AML Classifier Projects
-![Peter Moss AML Classifier Projects](Media/Images/Banner-Social.jpg) 
+# AML Drug Discovery Projects
+![Peter Moss AML Drug Discovery Projects](Media/Images/Banner-Social.jpg) 
 
 This area of the Peter Moss AML (Acute Myeloid Leukemia) AI Research Project focuses on research and development projects for drug discovery for Acute Myeloid Leukemia. 
 
