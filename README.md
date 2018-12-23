@@ -5,6 +5,8 @@ This area of the Peter Moss AML (Acute Myeloid Leukemia) AI Research Project foc
 
 The AML AI Research Project is being organized and developed by a team of volunteers with experience in Leukemia research, computer vision, biochemistry & molecular biophysics among other areas of expertise. The team is currently made up of:
 
+The goal of this project is to discover drug candidates from the AML AI.  
+
 | Team Member  | Position |
 | ------------- | ------------- |
 | [Adam Milton-Barker](https://github.com/AdamMiltonBarker "Adam Milton-Barker")  | Bigfinite IoT Network Engineer & Intel Software Innovator  |
