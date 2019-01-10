@@ -1,7 +1,7 @@
 # AML Drug Discovery Projects
 ![Peter Moss AML Drug Discovery Projects](Media/Images/Banner-Social.jpg) 
 
-This area of the Peter Moss AML (Acute Myeloid Leukemia) AI Research Project focuses on research and development projects for drug discovery for Acute Myeloid Leukemia. 
+This area of the Peter Moss AML (Acute Myeloid Leukemia) AI Research Project focuses on research and development projects for drug discovery and perscription assessment for Acute Myeloid Leukemia. 
 
 The AML AI Research Project is being organized and developed by a team of volunteers with experience in Leukemia research, computer vision, biochemistry & molecular biophysics among other areas of expertise. The team is currently made up of:
 
@@ -11,7 +11,7 @@ The goal of this project is to discover drug candidates from the AML AI.
 | ------------- | ------------- |
 | [Adam Milton-Barker](https://github.com/AdamMiltonBarker "Adam Milton-Barker")  | Bigfinite IoT Network Engineer & Intel Software Innovator  |
 | [Ho Leung Ng](https://github.com/holeung "Ho  Leung Ng")   | Kansas State University, Dept. Biochemistry & Molecular Biophysics |
-| [John LaRocco](https://github.com/holeung "John LaRocco")   | Former Humai Head of Engineering, LA, USA |
+| [John LaRocco](https://github.com/holeung "John LaRocco")   | Researcher |
 | [Amita Kapoor](https://github.com/amita-kapoor "Amita Kapoor") | Associate Professor @ Delhi University, New Dehli, India | 
 
 # Repo Projects
